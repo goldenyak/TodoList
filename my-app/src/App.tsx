@@ -33,6 +33,7 @@ function App() {
             {id: v1(), title: "Beer", isDone: false},
             {id: v1(), title: "Hleb", isDone: false},
             {id: v1(), title: "Water", isDone: false},
+            {id: v1(), title: "Sok", isDone: false},
         ]
     });
 
